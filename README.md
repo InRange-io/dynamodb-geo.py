@@ -1,6 +1,6 @@
 # Geo Library for Amazon DynamoDB
 
-This project is a fork of the (existing pip package)[https://github.com/Sigm0oid/dynamodb-geo.py] with a crucial fix for (this issue)[https://github.com/Sigm0oid/dynamodb-geo.py/issues/43] 
+This project is a fork of the [existing pip package](https://github.com/Sigm0oid/dynamodb-geo.py) with a crucial fix for [this issue](https://github.com/Sigm0oid/dynamodb-geo.py/issues/43) 
 
 ## Installation
 
